@@ -1,11 +1,29 @@
-## Hi there 👋
-- ⚡️ I’m currently learning Engenharia de Software
-- ⚡️ I’m looking to collaborate on projetos de tecnologia
-<!--
-**Ksrluana/ksrluana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-dela
-Here are some ideas to get you started:
+# Olá, eu sou Luana Kesia
 
-- 🌱 I’m currently learning Engenharia de Software
-- 👯 I’m looking to collaborate on projetos de tecnologia
--->
+Estudante do 7º período de Engenharia de Software, com foco em
+desenvolvimento mobile e front-end.
+
+## Tecnologias
+
+- Kotlin e Jetpack Compose
+- JavaScript, TypeScript e React
+- Node.js, Express e TypeORM
+- Firebase, MySQL e Git
+
+## Projetos em destaque
+
+### DRINX
+Aplicativo Android desenvolvido com Kotlin, Jetpack Compose e Firebase.
+[Repositório] • [Demonstração]
+
+### Cinema React CRUD
+Sistema para gerenciamento de filmes, salas e sessões.
+[Repositório] • [Demonstração]
+
+## Atualmente estudando
+
+React Native, testes automatizados e arquitetura mobile.
+
+## Contato
+
+LinkedIn • Portfólio
