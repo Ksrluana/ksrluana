@@ -11,7 +11,7 @@ Banco de dados e ferramentas: - MySQL e Git
 ## Projetos em destaque
 
 ### DRINX
-Aplicativo Android desenvolvido com Kotlin, Jetpack Compose e Firebase.
+Aplicativo Android para apoio à gestão de eventos, equipamentos e estoque, desenvolvido com Kotlin, Jetpack Compose e Firebase.
 
 Projeto acadêmico desenvolvido em equipe.
 
